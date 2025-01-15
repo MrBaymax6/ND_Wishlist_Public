@@ -1,0 +1,16 @@
+/*Designs the button that goes to the top of the webpage*/
+.go-top{
+    position: fixed;
+    bottom: 35px;
+    right: 35px;
+    border-radius: 100%;
+    cursor: pointer;
+    width: 200px;
+    height: 100px;
+    background-color: brown;
+    border: 3px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
